@@ -58,11 +58,11 @@ This Travel Management System is a comprehensive web application designed to fac
 ### Installation
 1. Clone the repository:
    ```
-   git clone [your-repository-url]
+   git clone https://github.com/Yeeoy/microservice-tourism-ecosystem.git
    ```
 2. Navigate to the project directory:
    ```
-   cd travel-management-system
+   cd microservice-tourism-ecosystem
    ```
 3. Install dependencies:
    ```
