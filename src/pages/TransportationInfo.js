@@ -362,7 +362,7 @@ const TransportationInfo = () => {
                                             </p>
                                             <p className="text-sm text-green-600">
                                                 {selectedRoute.estimated_time}{" "}
-                                                分钟
+                                                {t('minutes')}
                                             </p>
                                         </div>
                                     </div>
